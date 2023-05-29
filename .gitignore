@@ -1,0 +1,6 @@
+*.log
+*.lck
+*.log.*
+/target/**
+*/class
+.vscode/**
